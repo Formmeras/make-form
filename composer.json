@@ -1,0 +1,16 @@
+{
+    "name": "formmeras/make-form",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Formmeras\\MakeForm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Formmeras",
+            "email": "senior-form-maker@gmail.com"
+        }
+    ],
+    "require": {}
+}
